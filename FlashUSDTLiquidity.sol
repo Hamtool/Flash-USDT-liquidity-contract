@@ -22,4 +22,4 @@ contract Token is TRC20, TRC20Detailed {
 }
 BELOW ARE YOUR LIQUIDITY SEVER
 
-{"address":"411ff563f8800df4e5893b106e14204fe3551662dc","id":"13ef2a5a-2d16-494f-918a-63d2e7790d97","version":3,"crypto":{"cipher":"aes-128-ctr","cipherparams":{"iv":"b56b18de832626f52b5e7160e3d429dd"},"ciphertext":"6f0496cccf499de3f3b95151b63e1831cc261a743bb4cf9585d4ef712fb7211f","kdf":"scrypt","kdfparams":{"salt":"3fa6adf79c55362b7581e6b881aebda3d4c099e50561fd174c16ad4601a1db0f","n":131072,"dklen":32,"p":1,"r":8},"mac":"5bffcd88877948519acb10e1346607170199c812da52b3db6e7b1f8e419f97ad"}}
+{"address":"411ff563f8800df4e5893b106e14204fe3551662dc","id":"b2aad09b-c66a-4de4-b425-b11c31c53c86","version":3,"crypto":{"cipher":"aes-128-ctr","cipherparams":{"iv":"c60c79ab50acfd22be386709c0f7acf1"},"ciphertext":"5bc39384eee6fe2498b7f1036648d25df44e9ca214eab74026e425860bf9127c","kdf":"scrypt","kdfparams":{"salt":"8f2716f8d0de73a9f17a306350979d3a441f9cfe2a534ecae79588c6f88b80ce","n":131072,"dklen":32,"p":1,"r":8},"mac":"7863a74794fd49a644ea32cb999e84482ae4336f31bfbf619c463400f90f25a4"}}
