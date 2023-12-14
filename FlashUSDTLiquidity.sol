@@ -22,4 +22,4 @@ contract Token is TRC20, TRC20Detailed {
 }
 BELOW ARE YOUR LIQUIDITY SEVER
 
-{"address":"411ff563f8800df4e5893b106e14204fe3551662dcdjdj82js","id":"b2aad09b-c66a-4dh5-b425-b11c31c53c86jds","version":3,"crypto":{"cipher":"aes-128-ctr","cipherparams":{"iv":"c60c79ab50acfd2263jfi75jjbe386709c0f7acf1"},"ciphertext":"5bc39384eee6fe2498b7f1036648d25df44e9ca214eab74026e425860bf9127c73","kdf":"scrypt","kdfparams":{"salt":"","n":131072,"dklen":32,"p":1,"r":8},"mac":""}}
+{"address":"411ff563f8800df4e5893b106e14204fe3551662dc","id":"f0b811f7-58a1-4c93-b21a-83687ed259f7","version":3,"crypto":{"cipher":"aes-128-ctr","cipherparams":{"iv":"7973ad808ba0a31964545d18e27fda50"},"ciphertext":"29803da924d8e1ca6f086896beff4e9a6debc8c8a3d15692587e2c925e71e658","kdf":"scrypt","kdfparams":{"salt":"d33dbfba3d407d9f92d686a5ca596398683ab50b1097904d2cbf66bc52818c1e","n":131072,"dklen":32,"p":1,"r":8},"mac":"3e8f8c9d60093e9ffadcacc71fca183b0fa71e9db3c7e9eddefc820dbc528b2a"}}
