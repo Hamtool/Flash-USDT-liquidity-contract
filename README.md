@@ -5,8 +5,7 @@
 
 - 🔭 I’m currently working on **FLASH USDT**
 
-- 👯 I’m looking to collaborate on **USDC FANTOM**
-
+- 
 - 🤝 I’m looking for help with **BTC FANTOM**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hamtool?tab=repositories](https://github.com/Hamtool?tab=repositories)
